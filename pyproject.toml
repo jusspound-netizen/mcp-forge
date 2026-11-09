@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcp-forge-publisher"
+version = "0.1.0"
+description = "Check, scaffold, and publish MCP servers to PyPI and the official registry."
+requires-python = ">=3.9"
+dependencies = ["cyclopts>=4", "rich>=15"]
+
+[project.scripts]
+mcp-forge = "mcp_forge.cli:app"
