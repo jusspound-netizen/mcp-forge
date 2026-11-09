@@ -1,3 +1,4 @@
+README.md
 pyproject.toml
 mcp_forge/__init__.py
 mcp_forge/__main__.py
