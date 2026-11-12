@@ -1,2 +1,0 @@
-cyclopts>=4
-rich>=15
