@@ -1,4 +1,5 @@
 # MCP Forge
+[![M8ven Verified](https://m8ven.ai/badge/mcp/jusspound-netizen-mcp-forge-1bzqgm?variant=verified)](https://m8ven.ai/mcp/jusspound-netizen-mcp-forge-1bzqgm)
 
 Package and publish your MCP server to PyPI and the Official Registry in seconds.
 
